@@ -94,14 +94,14 @@ cout << _test_date_1.ToString() << "\n";
   
 <u>Inputs :</u>  
 `enDateTime _var` : using this `enum` you can specify what you want to get, for example, current year, current day, current month, current minute, current second, etc.  
-Check the [Enum Section](#Enum).  
+Check the [Enum Section](#Enums).  
   
 <u>Outputs :</u>  
 `int` : the current month/year/second as you choose.  
   
 <u>Explanation :</u>  
 This function returns the current time, you can choose to get the current year/month/day/minute/etc.  
-Check the [Enum Section](#Enum).  
+Check the [Enum Section](#Enums).  
   
 <u>Example of Usage :</u>  
 ```cpp  
